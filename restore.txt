@@ -1,5 +1,12 @@
-API
-====
-dotnet tool install --global dotnet-ef
+Após o clone 
+Dotnet
+    entrar na pasta EtecBook.Server\EtecBookAPI
+    dotnet restore
 
-dotnet ef database update 
+Angular 
+    entrar na pasta EtecBookIO
+    npm i
+
+dotnet ef 
+    dotnet tool install --global dotnet-ef 
+    dotnet ef database update 
