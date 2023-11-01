@@ -4,7 +4,7 @@ Dotnet
     dotnet restore
 
 Angular 
-    entrar na pasta EtecBookIO
+    entrar na pasta EtecBookUI
     npm i
 
 dotnet ef 
